@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "true",
+		"backgroundColour" : "20,20,20",
+		"useBackgroundImage" : "false",
+		"backgroundImagePath" : "images/backgroundImg7.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,0,0",
+		"useBoldText" : "false",
+		"serverTitle" : "NOM DU SERVEUR",
+		"playAudioInBackground" : "true",
+		"YTVideoID" : "HPc8QMycGno",
+		"videoVolume" : "3"
+	},
+	{
+		"rule1" : "Base vièrge",
+		"rule2" : "Serveur en total Développement",
+		"rule3" : "Si besoin d'aide, prend contacte avec moi",
+		"rule4" : "",
+		"rule5" : "",
+		"rule6" : "",
+		"rule7" : ""
+	},
+	{
+		"servers1" : "SERVEUR VIERGE",
+		"servers2" : "",
+		"servers3" : "",
+		"servers4" : "",
+		"servers5" : "",
+		"servers6" : "",
+		"servers7" : ""
+	},
+	{
+		"content1" : "Job Listing",
+		"content2" : "Job de base",
+		"content3" : "Magasin de vetement",
+		"content4" : "Skin et personnage",
+		"content5" : "Menu Inventaire",
+		"content6" : "Les annimations",
+		"content7" : "A vous de rajouter ce que vous voulez"
+	}
+]
